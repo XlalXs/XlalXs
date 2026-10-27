@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/undertale-banner.png" alt="xlalx — Undertale-inspired pixel menu banner" width="100%">
+<img src="undertale-banner.png" alt="xlalx — Undertale-inspired pixel menu banner" width="100%">
 
 </div>
 
@@ -14,12 +14,12 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  ♥  ABOUT ME                                                 │
+│  ♥  ABOUT ME                                                │
 ├─────────────────────────────────────────────────────────────┤
-│  * Hello! I'm xlalx.                                         │
-│  * I like making games, experimenting with code,             │
-│    and building things inspired by games I enjoy.            │
-│  * Currently learning, creating, and improving.              │
+│  * Hello! I'm xlalx.                                        │
+│  * I like making games, experimenting with code,            │
+│    and building things inspired by games I enjoy.           │
+│  * Currently learning, creating, and improving.             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -40,8 +40,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="C%23" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
 ## `▣` TOOLS
